@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>API</name>
+    </assembly>
+    <members>
+        <member name="T:API.Controllers.UserController">
+            <summary>
+            teste
+            </summary>
+        </member>
+        <member name="M:API.Controllers.UserController.Login(Common.UserModel)">
+            <summary>
+            Autentica o usuário
+            </summary>
+            <param name="user">Username e Senha do usuário</param>
+            <returns>OK se estiver OK</returns>
+        </member>
+        <member name="M:API.Controllers.UserController.Create(Common.UserModel)">
+            <summary>
+            API para criação de usuário
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:API.Controllers.UserController.Update(Common.UserModel)">
+            <summary>
+            API para edição de usuário
+            </summary>
+            <param name="user">Modelo de usuário</param>
+            <returns>OK se tudo certo</returns>
+        </member>
+        <member name="M:API.Controllers.UserController.Forgot(System.String)">
+            <summary>
+            API para resetar a senha
+            </summary>
+            <param name="email"></param>
+            <returns></returns>
+        </member>
+        <member name="M:API.Controllers.UserController.Reset(Common.UserModel)">
+            <summary>
+            API para resetar a senha
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="T:API.Migrations.NewDatabase">
+            <inheritdoc />
+        </member>
+        <member name="M:API.Migrations.NewDatabase.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:API.Migrations.NewDatabase.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:API.Migrations.NewDatabase.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

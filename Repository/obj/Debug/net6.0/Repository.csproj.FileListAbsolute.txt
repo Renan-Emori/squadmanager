@@ -1,0 +1,34 @@
+C:\Users\User\OneDrive\Área de Trabalho\.vs\SquadManager\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\.vs\SquadManager\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\User\OneDrive\Área de Trabalho\.vs\SquadManager\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\User\OneDrive\Área de Trabalho\.vs\SquadManager\Repository\bin\Debug\net6.0\Common.dll
+C:\Users\User\OneDrive\Área de Trabalho\.vs\SquadManager\Repository\bin\Debug\net6.0\Common.pdb
+C:\Users\User\OneDrive\Área de Trabalho\.vs\SquadManager\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\.vs\SquadManager\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\.vs\SquadManager\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\.vs\SquadManager\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\.vs\SquadManager\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\.vs\SquadManager\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+C:\Users\User\OneDrive\Área de Trabalho\.vs\SquadManager\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\User\OneDrive\Área de Trabalho\.vs\SquadManager\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\User\OneDrive\Área de Trabalho\.vs\SquadManager\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\User\OneDrive\Área de Trabalho\.vs\SquadManager\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\User\OneDrive\Área de Trabalho\.vs\SquadManager\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\.vs\SquadManager\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+E:\proje\SquadManager\Repository\bin\Debug\net6.0\Repository.deps.json
+E:\proje\SquadManager\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+E:\proje\SquadManager\Repository\bin\Debug\net6.0\Repository.dll
+E:\proje\SquadManager\Repository\bin\Debug\net6.0\Repository.pdb
+E:\proje\SquadManager\Repository\bin\Debug\net6.0\Common.dll
+E:\proje\SquadManager\Repository\bin\Debug\net6.0\Common.pdb
+E:\proje\SquadManager\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+E:\proje\SquadManager\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\proje\SquadManager\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+E:\proje\SquadManager\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+E:\proje\SquadManager\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+E:\proje\SquadManager\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+E:\proje\SquadManager\Repository\obj\Debug\net6.0\Repository.dll
+E:\proje\SquadManager\Repository\obj\Debug\net6.0\refint\Repository.dll
+E:\proje\SquadManager\Repository\obj\Debug\net6.0\Repository.pdb
+E:\proje\SquadManager\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+E:\proje\SquadManager\Repository\obj\Debug\net6.0\ref\Repository.dll

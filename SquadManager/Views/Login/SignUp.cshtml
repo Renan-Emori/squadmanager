@@ -1,0 +1,22 @@
+﻿@{
+    Layout = null;
+    ViewData["Title"] = "Sign Up";
+}
+<link href="~/css/Login.css" rel="stylesheet" />
+<section>
+    <h1>Crie sua conta aqui!</h1>
+    <form>
+        <input id="username" placeholder="Username" required />
+        <input id="email" type="email" placeholder="Email" required />
+        <input id="password" type="password" placeholder="Senha" required />
+        <input id="confirmPassword" type="password" placeholder="Confirmar senha" required />
+        <div class="error">
+            <span hidden>Senhas diferentes</span>
+        </div>
+        <button>Criar</button>
+    </form>
+</section>
+
+
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/js/SignUp.js"></script>
